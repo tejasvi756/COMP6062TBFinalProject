@@ -1,0 +1,33 @@
+h1 {
+    
+    background-color: #b65482;
+}
+
+
+
+.module {
+    background-color: rgb(218, 185, 139);
+    border-radius: 12px;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+
+\\
+
+button {
+    background-color: #964e72;
+    border: none;
+    border-radius: 6px;
+    color: rgb(155, 207, 121);
+    padding: 15px 25px;
+   
+    
+}
+
+@media only screen  and (max-width: 768px) {
+    .module {
+        margin: 20px ;
+    }
+}
+
